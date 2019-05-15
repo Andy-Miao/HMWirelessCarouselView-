@@ -1,0 +1,17 @@
+//
+//  CarouseViewPrefixHeader.pch
+//  HMWirelessCarouselView
+//
+//  Created by humiao on 2019/4/15.
+//  Copyright © 2019年 humiao. All rights reserved.
+//
+
+#ifndef CarouseViewPrefixHeader_pch
+#define CarouseViewPrefixHeader_pch
+
+#import "CarouseViewHeader.h"
+#import "UIImageView+WebCache.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* CarouseViewPrefixHeader_pch */
